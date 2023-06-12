@@ -1,0 +1,17 @@
+{
+    "name": "sashagvay/test",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SashaGvay",
+            "email": "yoshimurakun@ya.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.4 | ^8.0"
+    }
+}
